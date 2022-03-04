@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @polmaro
 - 👀 I’m from Ukraine, Kharkiv
 - 🌱 I’m currently learning golang
-- 💞️ I’m looking tfor a job
+- 💞️ I’m looking for a job
 -  
 
 <!---
